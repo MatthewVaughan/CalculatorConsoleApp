@@ -1,0 +1,6 @@
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicCalcConsoleApp\BasicCalcConsoleApp\bin\Debug\BasicCalcConsoleApp.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicCalcConsoleApp\BasicCalcConsoleApp\bin\Debug\BasicCalcConsoleApp.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicCalcConsoleApp\BasicCalcConsoleApp\bin\Debug\BasicCalcConsoleApp.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicCalcConsoleApp\BasicCalcConsoleApp\obj\Debug\BasicCalcConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicCalcConsoleApp\BasicCalcConsoleApp\obj\Debug\BasicCalcConsoleApp.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\BasicCalcConsoleApp\BasicCalcConsoleApp\obj\Debug\BasicCalcConsoleApp.pdb
